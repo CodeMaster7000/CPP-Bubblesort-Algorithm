@@ -1,2 +1,3 @@
-# CPP-Bubblesort-Algorithm
+# C++ Bubblesort Algorithm
+
 A C++ implementation of the Bubblesort Algorithm.
